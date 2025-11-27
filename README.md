@@ -41,7 +41,6 @@ DOM Project 2/
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/repo/issues).
 
 1.  Fork the project
 2.  Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -55,4 +54,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-*Built with ❤️ by [Your Name]*
+*Built with ❤️ by [Achref-930]*
